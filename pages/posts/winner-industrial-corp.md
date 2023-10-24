@@ -3,7 +3,7 @@ title: Winner Industrial Corp.
 date: 2023/10/24
 description: View examples of all possible Markdown options.
 tag: web development
-author: You
+author: Caye Borreo
 ---
 
 # Markdown Examples
