@@ -29,7 +29,7 @@ Winner Industrial Corporation is a pioneer in the local synthetic leather indust
 2. Smooth-scrolling landing page with a section featuring carousels of product swatches and product applications
 3. Product catalog page leading to the different product pages
 4. Magnify-on-hover feature and color-switching for swatch photos
-5. Contact form submission to sales@winnerindustrialcorp.com
+5. Contact form submission to their sales email address
 
 ### Links
 
@@ -48,7 +48,7 @@ Winner Industrial Corporation is a pioneer in the local synthetic leather indust
   className="next-image"
 />
 
-Following Angular's tutorial to make a sample cart app was a breeze, but testing concepts got real when I paired it with a Frontend Mentor challenge.
+Motivated to learn Angular, using a Frontend Mentor challenge after following the quickstart tutorial tested what I learned about the framework's fundamentals.
 
 ### Challenges
 
@@ -59,12 +59,12 @@ Following Angular's tutorial to make a sample cart app was a breeze, but testing
 ### Links
 - <a href="https://tip-calc.caye.codes/" target="_blank" rel="noopener noreferrer">Visit website ↗</a>
 - Medium article explaining my thought process: <a href="https://mcborreo.medium.com/learning-angular-as-a-react-developer-feat-frontend-mentor-a633d8232055" target="_blank" rel="noopener noreferrer">Learning Angular as a React Developer (feat. Frontend Mentor) ↗</a>
-- <a href="https://www.frontendmentor.io/solutions/tip-calculator-solution-using-angular-and-bulma-oyEfCiAKC" target="_blank" rel="noopener noreferrer">Frontend Mentor solution ↗</a> (feedback welcome here)
+- <a href="https://www.frontendmentor.io/solutions/tip-calculator-solution-using-angular-and-bulma-oyEfCiAKC" target="_blank" rel="noopener noreferrer">Frontend Mentor solution ↗</a> (feedback is welcome)
 - <a href="https://github.com/cayeborreo/angular-tip-calculator" target="_blank" rel="noopener noreferrer">Github ↗</a>
 
 ---
 
-## Prescribe Me Books (ReactJS/Gatsby, Airtable CMS)
+<h2 id="prescribe-me-books">Prescribe Me Books (ReactJS/Gatsby, Airtable CMS)</h2>
 
 <Image
   src="/images/prescribe-me-books.webp"
@@ -90,3 +90,8 @@ Taking the traditional medical consultation and giving it a bookworm twist, <a h
 - Medium article explaining my thought process: <a href="https://mcborreo.medium.com/designing-the-quiz-app-experience-and-building-it-with-gatsby-airtable-f5fbd98c280b" target="_blank" rel="noopener noreferrer">Designing the Quiz App Experience and Building It with Gatsby + Airtable ↗</a>
 - <a href="https://github.com/cayeborreo/prescribe-me-books" target="_blank" rel="noopener noreferrer">Github ↗</a>
 
+---
+
+<div class="post-item">
+<a class="post-item-more" href="#top">↑ Back to top</a>
+</div>
